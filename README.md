@@ -8,7 +8,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 
 ---
 
-**Creating 3 Tier Architecture & Integrating Other AWS Resources**
+# Creating 3 Tier Architecture & Integrating Other AWS Resources**
 
 **Step 1: Download Code from GitHub in Your Local System**
 
