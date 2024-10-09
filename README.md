@@ -8,7 +8,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 
 ---
 
-# Creating 3 Tier Architecture & Integrating Other AWS Resources**
+# Creating 3 Tier Architecture & Integrating Other AWS Resources
 
 **Step 1: Download Code from GitHub in Your Local System**
 
@@ -54,7 +54,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Create external load balancer.
 - Create autoscaling group.
 
- **Step 9: Add External-ALB-DNS Record in Route 53 **
+**Step 9: Add External-ALB-DNS Record in Route 53 **
  
 **Step 10: Create CloudWatch Alarms Along with SNS**
 
