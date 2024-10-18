@@ -47,7 +47,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Edit `nginx.conf` file in local system by adding Internal-LB-DNS & upload the file in S3.
 
 **Step 8: Create Test Web Server, Install Packages (Nginx, Node.js (React)), Test Connections **
-- [Test Web-Server Commands](https://github.com/pandacloud1/AWS_Project1/blob/main/web-server-commands)
+- [Test Web-Server Commands](https://github.com/gandlapatinithin/Deploying-a-three-tier-application-in-AWS/blob/main/web-server-commands)
 - Create AMI.
 - Create launch template using AMI.
 - Create target group.
