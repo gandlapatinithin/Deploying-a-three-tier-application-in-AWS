@@ -38,7 +38,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Place them in DB subnet group created above.
 
 **Step 7: Create Test App Server, Install Packages, Test Connections**
-- [Test App-Server Commands](https://github.com/gandlapatinithin/Deploying-a-three-tier-application-in-AWS](https://github.com/gandlapatinithin/Deploying-a-three-tier-application-in-AWS/tree/main/Application-code/app-tier))
+- [Test App-Server Commands](https://github.com/gandlapatinithin/Deploying-a-three-tier-application-in-AWS/tree/main/Application-code/app-tier)
 - Create AMI.
 - Create launch template using AMI.
 - Create target group.
