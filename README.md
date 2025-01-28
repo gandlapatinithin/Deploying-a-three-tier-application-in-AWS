@@ -1,5 +1,5 @@
 # Deploying-a-three-tier-application-in-AWS
-This workshop is a hands-on exploration of building a three-tier web architecture on AWS. I’ll be manually creating the necessary network, security, application, and database components, ensuring the architecture is both highly available and scalable.
+This project is a hands-on exploration of building a three-tier web architecture on AWS. I’ll be manually creating the necessary network, security, application, and database components, ensuring the architecture is both highly available and scalable.
 # Architecture Overview
 ![AWS Architecture - DrawIO](https://github.com/gandlapatinithin/Deploying-a-three-tier-application-in-AWS/blob/main/three-tier-arctecture.png)
 
