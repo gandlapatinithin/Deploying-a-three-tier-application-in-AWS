@@ -71,5 +71,3 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Delete VPC.
 - Delete RDS subnet group, RDS.
 
----
-
