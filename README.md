@@ -46,7 +46,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Create autoscaling group.
 - Edit `nginx.conf` file in local system by adding Internal-LB-DNS & upload the file in S3.
 
-**Step 8: Create Test Web Server, Install Packages (Nginx, Node.js (React)), Test Connections **
+**Step 8: Create Test Web Server, Install Packages (Nginx, Node.js (React)), Test Connections**
 - [Test Web-Server Commands](https://github.com/gandlapatinithin/Deploying-a-three-tier-application-in-AWS/blob/main/web-server-commands)
 - Create AMI.
 - Create launch template using AMI.
@@ -54,7 +54,7 @@ In this architecture, a public-facing Application Load Balancer forwards client 
 - Create external load balancer.
 - Create autoscaling group.
 
-**Step 9: Add External-ALB-DNS Record in Route 53 **
+**Step 9: Add External-ALB-DNS Record in Route 53**
  
 **Step 10: Create CloudWatch Alarms Along with SNS**
 
